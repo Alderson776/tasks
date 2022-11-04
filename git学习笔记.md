@@ -30,7 +30,7 @@
 
 ​        在远程推送文件是，我们经常会忘记一个步骤，那就是commit文件。这一步骤是为了将文件从电脑缓存区转到本地存储库。只有实现这一步才能实现推送，而commit命令也是重中之重，下列图片是我在尝试commit命令中出现的问题：
 
-​         ![]()
+​         !(https://github.com/Alderson776/Alderson776/blob/main/QQ%E5%9B%BE%E7%89%8720221104000735.png?raw=true)
 
 ​         如图所示无法找到我输入的命令，或是无法找到该文件，我认为有以下几个问题
 
@@ -40,7 +40,7 @@
 
      受到这两个思路的启发，我输入了git commit --help,如图所示
 
-  ![]()
+  ![](https://github.com/Alderson776/Alderson776/blob/main/QQ%E5%9B%BE%E7%89%8720221104000756.jpg?raw=true)
 
   我重新修改格式，使用-v来输入，并且重新复制了文件路径，终于获得成功。
 
@@ -50,7 +50,7 @@
 
   ​        在完成推送后我检查了自己的的远程库，再常见的main分支中没有发现我的推送文件，最后却惊奇的发现我的库中多了master这个分支，我的推送文件也在其中。后来在网上查询，我明白了是在推送过程中就新创建了一个master分支与本地master分支相匹配，为了解决这个问题，我尝试用命令中的***remote add -v***来实现，但没有成功，如图所示：
 
-  ![]()
+  ![](https://github.com/Alderson776/Alderson776/blob/main/QQ%E5%9B%BE%E7%89%8720221104000819.png?raw=true)
 
   ​        在询问学长和查阅资料后，我明白了这个命令并不能添加分支而是追踪分支，这就涉及到了分支操作。对新手很不友好，经学长推荐，我了解到了另一种方法，步骤如下：
 
@@ -82,7 +82,7 @@
   
   学习博客：[对称加密和非对称加密](https://blog.csdn.net/xtonychenx/article/details/123747030)
   
-  官方文档：[git官方]([git-commit(1)](file:///D:/Git/mingw64/share/doc/git-doc/git-commit.html))                    
+  官方文档：[git](file:///D:/Git/mingw64/share/doc/git-doc/git-commit.html))                    
   
   
   
