@@ -78,11 +78,11 @@
   
   ### 参考资料
   
-  学习视频：[git教程]([03_svn_git_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1MU4y1Y7h5?p=3&vd_source=7a212e5a6ec2445d181362a78f179b4e))
+  学习视频：[git教程](https://www.bilibili.com/video/BV1MU4y1Y7h5?p=3&vd_source=7a212e5a6ec2445d181362a78f179b4e)
   
   学习博客：[对称加密和非对称加密](https://blog.csdn.net/xtonychenx/article/details/123747030)
   
-  官方文档：[git](file:///D:/Git/mingw64/share/doc/git-doc/git-commit.html))                    
+  官方文档：[git](https://git-scm.com/docs/git-commit)                    
   
   
   
