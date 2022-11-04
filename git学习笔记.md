@@ -30,7 +30,7 @@
 
 ​        在远程推送文件是，我们经常会忘记一个步骤，那就是commit文件。这一步骤是为了将文件从电脑缓存区转到本地存储库。只有实现这一步才能实现推送，而commit命令也是重中之重，下列图片是我在尝试commit命令中出现的问题：
 
-​         !(https://github.com/Alderson776/Alderson776/blob/main/QQ%E5%9B%BE%E7%89%8720221104000735.png?raw=true)
+​         ![](https://github.com/Alderson776/Alderson776/blob/main/QQ%E5%9B%BE%E7%89%8720221104000735.png?raw=true)
 
 ​         如图所示无法找到我输入的命令，或是无法找到该文件，我认为有以下几个问题
 
