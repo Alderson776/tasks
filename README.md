@@ -10,4 +10,4 @@
 ## 第四次考核任务
 [网页制作成果](https://github.com/Alderson776/tasks/blob/main/%E7%BD%91%E9%A1%B5%E8%80%83%E6%A0%B8%E4%BD%9C%E4%B8%9A.html)
 ## 第五次考核任务
-
+[python学习笔记](https://github.com/Alderson776/tasks/blob/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E5%AF%B9python%E7%9A%84%E5%AD%A6%E4%B9%A0.md)
