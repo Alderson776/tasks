@@ -16,4 +16,4 @@
 
 [第二天所写代码（对文字进行爬取）]()
 
-[第四和第五天所学代码（基于scrpy和管道类进行图片爬取）]()
+[第四和第五天所学代码（基于scrpy和管道类进行图片爬取）](https://github.com/Alderson776/tasks/blob/main/bug_picture-2.py)
